@@ -120,7 +120,7 @@ public class ArrayTest {
                     i--;
             } // End for j
         } // End for i
-
+        arrAsc(arr);
         System.out.println(Arrays.toString(arr));
     }
 }
